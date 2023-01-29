@@ -16,6 +16,6 @@
  4. Book Delete page: This page allows users to delete a book from the library.
 
 
-### This project was developed using Django Framework, which provides a high level of security, scalability and allows for easy maintenance.
-### The project also used various libraries that support the functionality of the website and make it easy to use.
-### The project allowed me to practice my skills in web development and improve my knowledge of Django Framework.
+#### This project was developed using Django Framework, which provides a high level of security, scalability and allows for easy maintenance.
+#### The project also used various libraries that support the functionality of the website and make it easy to use.
+#### The project allowed me to practice my skills in web development and improve my knowledge of Django Framework.
